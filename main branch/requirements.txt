@@ -1,0 +1,15 @@
+streamlit>=1.30.0
+numpy
+pandas
+transformers
+torch
+sentencepiece
+scipy
+scikit-learn
+gtts
+SpeechRecognition
+pydub
+langdetect
+googletrans==4.0.0-rc1
+sounddevice
+librosa
